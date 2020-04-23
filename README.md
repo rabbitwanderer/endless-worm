@@ -1,2 +1,4 @@
-# endless-worm
-A game to avoid obstacles. (Phaser3 practice)
+# 限りなくのびるミミズ
+
+- Phaser習作
+- 学生時代に作った自作ゲームのリメイク
