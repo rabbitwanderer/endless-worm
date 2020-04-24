@@ -1,3 +1,8 @@
+/**
+ * @author       Rabbitwanderer <rabbitwanderer@gmail.com>
+ * @license      {@link https://opensource.org/licenses/MIT|MIT License}
+ */
+
 import 'phaser';
 
 // 座標定数
